@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // Listen to a port
 // Send a message for any other URL
 
